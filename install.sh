@@ -22,3 +22,6 @@ checkroot
 
 printf "\e[1;92mAll Requires are installed!\n\e[0m"
 
+chmod +x install.sh
+./install.sh
+
